@@ -1,5 +1,11 @@
 # MIT Linear Algebra 18.06 Notes
 
+## 0. 使用方法
+
+直接 git clone 就完事儿了。
+所有 Markdown 文件都已经在提交前，按照下述有关设置要求打开并确认一切正常。
+除此之外还推荐用 vscode 打开。无论是直接通过 **Markdown Preview**，还是 **vscode-pdf**。
+
 ## 1. 对这门课的看法
 
 首先，虽然还没有看完，但是还是要对 Gilbert Strang 教授表示最崇高的敬意。
